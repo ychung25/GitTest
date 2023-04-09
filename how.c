@@ -1,5 +1,5 @@
-#include <nt>
+#include <cpp>
 
 void fire(){
-	return "to the rain!";
+	return [those];
 }
